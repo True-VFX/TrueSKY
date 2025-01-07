@@ -39,6 +39,7 @@ Join ongoing conversations in the Issues and Discussions sections. Your feedback
 - **Documentation**: [True-VFX Docs](https://docs.true-vfx.xyz)
 - **Tutorials**: [YouTube Tutorials](https://www.youtube.com/@True-VFX/playlists)
 - **Support Guidelines**: Refer to our [support policies](https://www.true-vfx.xyz/policies/policies-index) for additional details on our process.
+- **Discord**: You can also use our [Discord](https://discord.gg/true-vfx)
 
 ---
 
