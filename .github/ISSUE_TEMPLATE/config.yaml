@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Public Support
-    url: https://github.com/your-repo/issues/new?template=bug_report.yml
-    about: "Submit a bug report or public issue."
-  - name: Internal Tasks
-    url: https://github.com/your-repo/issues/new?template=team_task.yml
-    about: "For team members to create tasks."
+  - name: Feedback
+    url: https://github.com/your-repo/issues/new?template=feedback.md
+    about: "Share your feedback with us!"
