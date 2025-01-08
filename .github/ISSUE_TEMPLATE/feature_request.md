@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: "[Feature Request]:"
+labels: New Feature
+assignees: zachEastin, RJT-tVFX
 
 ---
 
